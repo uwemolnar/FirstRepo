@@ -1,5 +1,5 @@
 function display() {
-   alert("Hello World!");
+   window.alert("Hello World!");
 }
 
 display();
