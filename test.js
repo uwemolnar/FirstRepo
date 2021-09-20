@@ -1,5 +1,1 @@
-function display() {
-   window.alert("Hello World!");
-}
-
-display();
+window.alert("Hello World!")
